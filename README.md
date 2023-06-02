@@ -1,1 +1,2 @@
 # odin-recipes
+This is a simple recipe website using basic HTML knowledge. It contains a main index page with a few links to various recipes across the internet. It utilizes my knowledge of images and links and how to display them using HTML.
